@@ -8,3 +8,6 @@ Things DadBot tends to do:
 - Tell you how much he loves his kids
 - Additionally dad bot will look for any 'im' in the chat and reply with, "hi ______, I'm dad hahaha". So if you were to say, "I'm hungry", dadbot would reply, "hi hungry, I'm dad. Hahaha!"
 
+Instructions:
+- Compile with: javac *.java OR javac IRC_DadBot.java
+- Run with: java IRC_DadBot.java
